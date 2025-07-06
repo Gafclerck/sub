@@ -81,8 +81,3 @@ Le programme renverra :
 Ce projet est sous licence MIT — vous êtes libre de l'utiliser, le modifier et le redistribuer avec attribution.
 
 ```
-
----
-
-Souhaites-tu que je te prépare aussi le contenu de `main.py` et `utils.py` selon cette structure si tu ne l’as pas encore ?
-```
